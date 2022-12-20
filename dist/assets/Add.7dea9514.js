@@ -1,0 +1,1 @@
+import o from"./AddEmployee.aed273f6.js";import{o as e,s as r}from"./index.0a0d1aee.js";import"./_plugin-vue_export-helper.cdc0426e.js";const _={__name:"Add",setup(t){return(p,a)=>(e(),r(o))}};export{_ as default};

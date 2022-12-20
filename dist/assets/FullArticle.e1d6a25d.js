@@ -1,0 +1,1 @@
+import r from"./Full.48a3692f.js";import{o,s as t}from"./index.0a0d1aee.js";import"./Article.979dd6f7.js";import"./iconmonstr-user-5-240.bf901f19.js";import"./_plugin-vue_export-helper.cdc0426e.js";const i={__name:"FullArticle",setup(e){return(p,c)=>(o(),t(r))}};export{i as default};

@@ -1,0 +1,1 @@
+import{y as s,o as c,c as n}from"./index.0a0d1aee.js";import{_ as r}from"./_plugin-vue_export-helper.cdc0426e.js";const a={__name:"404",setup(p){const _=s(),e=()=>{_.push("/home_index")};return(u,o)=>(c(),n("div",{onClick:o[0]||(o[0]=(...t)=>e&&e(...t))},"404"))}},i=r(a,[["__scopeId","data-v-5a3b7c38"]]);export{i as default};
