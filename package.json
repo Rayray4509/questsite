@@ -1,10 +1,10 @@
 {
   "name": "web",
   "version": "1.0.0",
-  "main": "sever.js",
+  "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "run":"sever.js"
+    "go":"app.js"
   },
   "type": "module",
   "author": "",
